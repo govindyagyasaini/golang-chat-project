@@ -43,6 +43,11 @@ A modern, real-time chat application built with **Go** (backend) and **React** (
 ### Multiple Users
 <img width="3419" height="1898" alt="58AB3501-B11A-4C0C-8878-8644148C7F98" src="https://github.com/user-attachments/assets/fbd76fa9-474b-47ba-b6e4-e53bcfca898c" />
 
+## 📸 GIF
+
+![Untitled](https://github.com/user-attachments/assets/265af659-0ec6-4400-bf05-1b433fcb1c9e)
+
+
 
 
 ---
