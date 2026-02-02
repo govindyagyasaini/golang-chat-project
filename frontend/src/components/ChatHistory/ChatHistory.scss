@@ -1,0 +1,33 @@
+.ChatHistory {
+  flex: 1;
+  background: #f7f9fc;
+  padding: 24px;
+  overflow-y: auto;
+  
+  h2 {
+    margin: 0 0 20px 0;
+    padding: 0;
+    color: #1a202c;
+    font-size: 1.25rem;
+    font-weight: 600;
+  }
+  
+  /* Custom scrollbar */
+  &::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  &::-webkit-scrollbar-track {
+    background: #e2e8f0;
+    border-radius: 10px;
+  }
+  
+  &::-webkit-scrollbar-thumb {
+    background: #cbd5e0;
+    border-radius: 10px;
+    
+    &:hover {
+      background: #a0aec0;
+    }
+  }
+}
